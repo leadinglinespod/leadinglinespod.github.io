@@ -1,6 +1,6 @@
 ---
-layout: project
-title: All Projects
-excerpt: "A List of Projects"
+layout: episodes
+title: All Episodes
+excerpt: "A List of Episodes"
 comments: false
 ---

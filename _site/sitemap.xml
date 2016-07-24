@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://leadinglinespod/moon-theme/</loc>
-<lastmod>2016-04-06T00:00:00-04:00</lastmod>
+<loc>https://leadinglinespod.github.io/moon-theme/</loc>
+<lastmod>2016-07-24T00:00:00-04:00</lastmod>
 </url>
 <url>
-<loc>http://leadinglinespod/404</loc>
+<loc>https://leadinglinespod.github.io/404</loc>
 </url>
 <url>
-<loc>http://leadinglinespod/</loc>
+<loc>https://leadinglinespod.github.io/</loc>
 </url>
 <url>
-<loc>http://leadinglinespod/tags/</loc>
+<loc>https://leadinglinespod.github.io/tags/</loc>
 </url>
 <url>
-<loc>http://leadinglinespod/projects/</loc>
+<loc>https://leadinglinespod.github.io/projects/</loc>
 </url>
 <url>
-<loc>http://leadinglinespod/posts/</loc>
+<loc>https://leadinglinespod.github.io/posts/</loc>
 </url>
 <url>
-<loc>http://leadinglinespod/about/</loc>
+<loc>https://leadinglinespod.github.io/about/</loc>
 </url>
 </urlset>
