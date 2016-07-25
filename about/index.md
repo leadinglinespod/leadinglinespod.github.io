@@ -20,3 +20,7 @@ comments: false
 ## Production
 
 * Rhett McDaniel, Educational Technologist, Center for Teaching, Vanderbilt University
+
+## Website Credits
+
+The website design is based on Taylantali's [Moon](https://github.com/TaylanTatli/Moon) theme.
