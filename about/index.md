@@ -23,4 +23,4 @@ comments: false
 
 ## Website Credits
 
-The website design is based on Taylantali's [Moon](https://github.com/TaylanTatli/Moon) theme.
+* The website design is based on Taylantali's [Moon](https://github.com/TaylanTatli/Moon) theme.
