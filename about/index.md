@@ -6,7 +6,11 @@ date: 2016-07-24
 comments: false
 ---
 
-<center><b>Leading Lines</b> is a podcast about educational technology in higher education.</center>
+<b>Leading Lines</b> is a podcast on educational technology in higher education.
+
+In this podcast, we explore creative, intentional, and effective uses of technology to enhance student learning, uses that point the way to the future of educational technology in college and university settings. Through interviews with educators, researchers, technologists, and others, we hope to amplify ideas and voices and that are (or should be!) shaping how we think about digital learning and digital pedagogy.
+
+Leading Lines is produced out of Vanderbilt University by the Office of the Associate Provost for Digital Learning, the Vanderbilt Center for Teaching, the Vanderbilt Institute for Digital Learning, and the Vanderbilt University Library. Follow us on Twitter [@leadinglinespod](http://twitter.com/leadinglinespod).
 
 ## Podcasters
 
