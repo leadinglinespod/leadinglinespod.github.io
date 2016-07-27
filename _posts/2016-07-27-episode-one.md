@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Episode 1: George Siemens"
-date:   2016-07-27
+date:   2016-08-01
 excerpt: "George Siemens is executive director of the Learning Innovation and Networked Knowledge Research Lab at the University of Texas at Arlington."
 episode: true
 tag:
