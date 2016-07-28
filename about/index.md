@@ -3,7 +3,7 @@ layout: page
 title: About Leading Lines
 tags: [about, podcast, edtech]
 date: 2016-07-24
-comments: false
+comments: true
 ---
 
 <b>Leading Lines</b> is a podcast on educational technology in higher education.
