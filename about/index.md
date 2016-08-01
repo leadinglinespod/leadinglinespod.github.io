@@ -29,4 +29,4 @@ Subscribe to the podcast in iTunes or another podcast app using our [RSS feed](h
 
 ## Website Credits
 
-* The website design is based on Taylantali's [Moon](https://github.com/TaylanTatli/Moon) theme.
+* The website design is based on TaylanTatli's [Moon](https://github.com/TaylanTatli/Moon) theme.
