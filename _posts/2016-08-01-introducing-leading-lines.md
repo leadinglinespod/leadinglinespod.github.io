@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Introducing the Leading Lines Podcast"
-date: 2012-05-22
-excerpt: "I’m very happy to announce the launch of [Leading Lines], a podcast on educational technology produced here at Vanderbilt University"
+date: 2016-08-01
+excerpt: "I’m very happy to announce the launch of Leading Lines, a podcast on educational technology produced here at Vanderbilt University"
 tags: [podcast, edtech]
 comments: true
 ---
