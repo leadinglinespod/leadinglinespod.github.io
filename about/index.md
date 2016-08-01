@@ -12,7 +12,7 @@ In this podcast, we explore creative, intentional, and effective uses of technol
 
 Leading Lines is produced out of Vanderbilt University by the Office of the Associate Provost for Digital Learning, the [Vanderbilt Center for Teaching](https://cft.vanderbilt.edu/), the [Vanderbilt Institute for Digital Learning](http://www.vanderbilt.edu/vidl/), and [Office of Scholarly Communications](http://www.library.vanderbilt.edu/scholarly/) at the Vanderbilt University Library. Follow us on Twitter [@leadinglinespod](http://twitter.com/leadinglinespod).
 
-Subscribe to the podcast in iTunes or another podcast app using our [RSS feed](http://feeds.soundcloud.com/users/soundcloud:users:219511823/sounds.rss).
+Subscribe to the podcast in [iTunes](https://itunes.apple.com/us/podcast/leading-lines/id1138392530?mt=2) or another podcast app using our [RSS feed](http://feeds.soundcloud.com/users/soundcloud:users:219511823/sounds.rss).
 
 ## Podcasters
 
