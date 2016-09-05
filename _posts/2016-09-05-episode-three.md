@@ -2,7 +2,7 @@
 layout: post
 title:  "Episode 3: Mike Sharples"
 date:   2016-09-05
-excerpt: "Mike Sharples hold a chair in educational technology at the Open University and is the Academic Lead at FutureLearn."
+excerpt: "Mike Sharples holds a chair in educational technology at the Open University and is the Academic Lead at FutureLearn."
 episode: true
 tag:
 - online learning
