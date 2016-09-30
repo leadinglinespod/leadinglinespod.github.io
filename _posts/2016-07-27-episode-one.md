@@ -631,6 +631,6 @@ More on George Siemens:
 
 </div>
 
-!(CC-BY-NC)[assets/img/by-nc.png]
+![CC-BY-NC](assets/img/by-nc.png)
 
 </div>
