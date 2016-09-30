@@ -620,4 +620,4 @@ More on George Siemens:
  University of Texas at Arlington. You've been listening to Leading
  Lines, a podcast on educational technology from Vanderbilt University.
 
-![CC-BY-NC](assets/img/by-nc.png)
+![CC-BY-NC](/assets/img/by-nc.png)
