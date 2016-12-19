@@ -14,3 +14,5 @@ With this tenth episode, we close out what I’ve been calling “Season 1” of
 We’re going to take a short break for the holidays, but look for our first “Season 2” episode on Monday, January 16th. We’re aiming for another ten episodes in a row for Season 2 (first and third Mondays of the month), and we already have five of those interviews recorded. I’m excited to share them! We have some innovative voices in educational technology on deck for the spring.
 
 In the meantime, if you haven’t listened to all ten of our first episodes, search for “Leading Lines” in your favorite podcast app, or find them on our [episode page](http://leadinglinespod.com/episodes/). It’s hard for me to pick favorites, but I highly recommend [Episode 8](http://leadinglinespod.com/episode-008/) with Vanderbilt’s Zoe LeBlanc. Zoe is a doctoral student in history who is incredibly savvy about teaching with technology, and it was a lot of fun to interview her!
+
+*I'm your host, Derek Bruff. Thanks for listening.*
