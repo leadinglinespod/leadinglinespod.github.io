@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Episode 2: Corbette Doyle"
+title:  "Episode 002: Corbette Doyle"
 date:   2016-08-15
 excerpt: "Corbette Doyle is a lecturer in organizational leadership in the Department of Leadership, Policy, and Organizations at Vanderbilt University."
 episode: true
